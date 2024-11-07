@@ -20,10 +20,10 @@ The **Superstore Sales Analysis Dashboard** provides an in-depth view of sales p
    - **Cities Served:** 531
    - **Total Units Sold:** 38K
 
-   These high-level figures give an immediate snapshot of the superstore’s scale, market reach, and financial performance. With over half a million in profit and millions in revenue, the store demonstrates strong sales, although further breakdown reveals key opportunities to optimize performance and profitability.
+   These high-level figures give an immediate snapshot of the superstore’s scale, market reach, and financial performance. With over quarter a million in profit and millions in revenue, the store demonstrates strong sales, although further breakdown reveals key opportunities to optimize performance and profitability.
 
 2. **Revenue by Top Ten Products**
-   - The bar chart showcases the top 10 products in terms of revenue generation. Key items include *Phones* and *Chairs*, both contributing significantly to the overall revenue.
+   - The bar chart showcases the top 10 products in terms of revenue generation. Key items include *Phones* and *Copiers*, both contributing significantly to the overall revenue.
    - This product-level view allows stakeholders to identify high-demand items and consider inventory and marketing strategies to capitalize on these profitable segments.
 
 3. **Revenue by Category**
