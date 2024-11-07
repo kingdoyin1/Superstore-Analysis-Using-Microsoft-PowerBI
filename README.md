@@ -1,5 +1,7 @@
 # Superstore-Analysis-Using-Microsoft-PowerBI
 
+![Superstore Sales Analysis Dashboard](https://drive.google.com/uc?id=1y4oGdM1A_MLYe5IbZ97wzqvQ1RZUBWC-)
+
 **Superstore Sales Analysis Report**
 
 ---
